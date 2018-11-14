@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema version="1.0"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://localhost:8080/ajaxprac"
+            xmlns="http://localhost:8080/ajaxprac"
+            elementFormDefault="qualified"> 
+<xsd:annotation>
+<xsd:documentation xml:lang="fr">
+  Schema XML pour film1.xml
+</xsd:documentation>
+</xsd:annotation>
+<xsd:element name="Cinema">
+ <xsd:complexType>
+    <xsd:sequence>
+      <xsd:element name="Film" minOccurs="1" maxOccurs="unbounded">
+         <xsd:complexType>
+            <xsd:sequence>
+             <xsd:element name="Title" type="xsd:string"/>
+             <xsd:element name="Year" type="xsd:string"/>
+             <xsd:element name="Time" type="xsd:string"/>
+             <xsd:element name="Genre" type="xsd:string"/>
+             <xsd:element name="Director" type="xsd:string"/>
+             <xsd:element name="Actor" type="xsd:string"/>
+             <xsd:element name="Nationality" type="xsd:string"/>
+             <xsd:element name="Plot" type="xsd:string"/>
+             <xsd:element name="Image" type="xsd:string"/>
+           </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:sequence>
+ </xsd:complexType>
+</xsd:element>
+
+</xsd:schema>

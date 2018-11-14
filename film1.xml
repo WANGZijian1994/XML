@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cinema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://localhost:8080/ajaxprac"
+        xsi:schemaLocation="http://localhost:8080/ajaxprac flim2.xsd">
+   <Film>
+      <Title>Star Wars: Episode IV - A New Hope</Title>
+      <Year>1977</Year>
+      <Time>121 minutes</Time>
+      <Genre>Action,Adventure,Fantasy</Genre>
+      <Director>George Lucas</Director>
+      <Actor>Mark Hamill</Actor>
+      <Nationality>American</Nationality>
+      <Plot>Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.</Plot>
+      <Image>https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg</Image>
+   </Film>
+   <Film>
+      <Title>FORREST GUMP Version II</Title>
+      <Year>2015</Year>
+      <Time>141 minutes</Time>
+      <Genre>Comedy</Genre>
+      <Director>Robert Zemeckis</Director>
+      <Actor>Tom Hanks, Gary Sinise, Robin Wright</Actor>
+      <Nationality>American</Nationality>
+      <Plot>Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. </Plot>
+      <Image>https://i1.wp.com/www.tusk2.com/wp-content/uploads/6362173248589845201450983800_forrest-gump.jpg?resize=1024%2C576</Image>
+   </Film>
+   <Film>
+      <Title>Men in Black</Title>
+      <Year>1997</Year>
+      <Time>100 minutes</Time>
+      <Genre>Comedy</Genre>
+      <Director>McDo</Director>
+      <Actor>Will Smith</Actor>
+      <Nationality>American</Nationality>
+      <Plot>Based off of the comic book. Unbeknownst to other people, there is a private agency code named MiB. This agency is some kind of extra terrestrial surveillance corporation. Then, one of the agency's finest men only going by the name "K" (Tommy Lee Jones), is recruiting for a new addition to the agency.</Plot>
+      <Image>http://fr.web.img4.acsta.net/c_215_290/medias/nmedia/00/02/33/46/af.jpg</Image>
+   </Film>
+   <Film>
+      <Title>Men in Black IV</Title>
+      <Year>2019</Year>
+      <Time>123 minutes</Time>
+      <Genre>Comedy</Genre>
+      <Director>McDoc</Director>
+      <Actor>Liam Neeson, Will Smith</Actor>
+      <Nationality>American</Nationality>
+      <Plot>Based off of the comic book. Unbeknownst to other people, there is a private agency code named MiB. This agency is some kind of extra terrestrial surveillance corporation. Then, one of the agency's finest men only going by the name "K" (Tommy Lee Jones), is recruiting for a new addition to the agency.</Plot>
+      <Image>http://fr.web.img4.acsta.net/c_215_290/medias/nmedia/00/02/33/46/af.jpg</Image>
+   </Film>
+   <Film>
+      <Title>Madagascar</Title>
+      <Year>2012</Year>
+      <Time>85 minutes</Time>
+      <Genre>Comedy</Genre>
+      <Director>Mark Swift</Director>
+      <Actor>Eric Darnell, Conrad Vernon</Actor>
+      <Nationality>American</Nationality>
+      <Plot>Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.</Plot>
+      <Image>https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg</Image>
+   </Film>
+</Cinema>
