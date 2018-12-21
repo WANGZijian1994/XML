@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Football xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="projet.xsd">
+<?xml-stylesheet type="text/xsl" href="projet.xsl"?>
+<!--Un petit répertoire  du football-->
+<Europe association="European" lang="en">
+     <team>
+           <name>OM</name>
+           <country>France</country>
+           <date_of_birth>1899-08-31</date_of_birth>
+           <honor>
+               <international>
+                    <UEFA_Champions_league>1993</UEFA_Champions_league>
+                    <League_Europa>Not yet</League_Europa>              
+               </international>
+               <times_of_national_championship>9</times_of_national_championship>
+           </honor>
+           <famousplayer>Zidane, Deschamps, Cissé</famousplayer>
+           <officialsite>https://www.om.net</officialsite>
+     </team>
+     <team>    
+           <name>OL</name>
+           <country>France</country>
+           <date_of_birth>1950-04-18</date_of_birth>
+           <honor>
+               <international>
+                    <UEFA_Champions_league>Not Yet</UEFA_Champions_league>
+                    <League_Europa>Not Yet</League_Europa>               
+               </international>
+               <times_of_national_championship>7</times_of_national_championship>
+           </honor>
+           <famousplayer>Benzema</famousplayer>
+           <officialsite>https://www.ol.fr/fr-FR/prehome</officialsite>
+       </team>
+       <team>
+           <name>Ajax Amsterdam</name>
+           <country>Holland</country>           
+           <date_of_birth>1900-05-18</date_of_birth>
+           <honor>
+               <international>
+                     <UEFA_Champions_league>1971, 1972, 1973, 1995</UEFA_Champions_league>
+                     <League_Europa>1991</League_Europa>
+               </international>
+               <times_of_national_championship>33</times_of_national_championship>
+           </honor>
+           <famousplayer>John Cruyff</famousplayer>
+           <officialsite>https://english.ajax.nl</officialsite>
+       </team>
+       <team>
+           <name>PSV Eindhoven</name>
+           <country>Holland</country>       
+           <date_of_birth>1913-08-31</date_of_birth>
+           <honor>
+               <international>
+                     <UEFA_Champions_league>1988</UEFA_Champions_league>
+                     <League_Europa>1978</League_Europa>
+               </international>
+               <times_of_national_championship>24</times_of_national_championship>
+           </honor>
+           <famousplayer>Ronaldo, Arjen Robben</famousplayer>
+           <officialsite>https://english.psv.nl</officialsite>
+       </team>
+       <team>
+           <name>Feyenoord</name>
+           <country>Holland</country>
+           <date_of_birth>1908-07-19</date_of_birth>      
+           <honor>
+               <international>
+                     <UEFA_Champions_league>1970</UEFA_Champions_league>
+                     <League_Europa>1974, 2002</League_Europa>
+               </international>
+               <times_of_national_championship>15</times_of_national_championship>
+           </honor>
+           <famousplayer> Giovanni van Bronckhorst, Robin van Persie, Dirk Kuyt</famousplayer>
+           <officialsite>https://www.feyenoord.com/</officialsite>
+       </team>
+       <team>
+           <name>Galatasaray</name>
+           <country>Turkey</country>
+           <date_of_birth>1905-10-01</date_of_birth>
+           <honor>
+               <international>
+                   <UEFA_Champions_league>Not Yet</UEFA_Champions_league>               
+                   <League_Europa>2000</League_Europa>
+               </international>
+               <times_of_national_championship>21</times_of_national_championship>
+           </honor>
+           <famousplayer>Wesley Sneijder</famousplayer>
+           <officialsite>https://www.galatasaray.org/anasayfa</officialsite>
+       </team>                 
+</Europe>
+<Asia association="Asian" lang="en">
+     <team>
+           <name>Kashima Antlers</name>
+           <country>Japan</country>
+           <date_of_birth>1947-05-18</date_of_birth>
+           <honor>
+               <international>
+                    <AFC_Champions_League>2018</AFC_Champions_League>
+               </international>
+               <times_of_national_championship>8</times_of_national_championship>
+           </honor>
+           <famousplayer>Leonardo, Osako,Chibasaki</famousplayer>
+           <officialsite>https://www.so-net.ne.jp/antlers/en</officialsite>
+    </team>
+    <team>
+           <name>Gamba Osaka</name>
+           <country>Japan</country>
+           <date_of_birth>1980-06-18</date_of_birth>
+           <honor>
+               <international>
+                    <AFC_Champions_League>2008</AFC_Champions_League>
+               </international>
+               <times_of_national_championship>2</times_of_national_championship>
+           </honor>
+           <famousplayer>Endo, Miyamoto</famousplayer>
+           <officialsite>http://www.gamba-osaka.net/en</officialsite>
+    </team>
+    <team>
+           <name>Pohang Steelers</name>
+           <country>Korea</country>
+           <date_of_birth>1973-04-18</date_of_birth>
+           <honor>
+               <international>
+                    <AFC_Champions_League>1997,1998,2009</AFC_Champions_League>
+               </international>
+               <times_of_national_championship>5</times_of_national_championship>
+           </honor>
+           <famousplayer>Hwang Sun-hong</famousplayer>
+           <officialsite>https://www.youtube.com/channel/UCZflWPnj98MTr4-GZxwIssQ</officialsite>
+   </team>
+</Asia>
+<World association="world" lang="en">
+       <team>
+           <name>Boca Juniors</name>
+           <country>Argentina</country>
+           <date_of_birth>1905-04-03</date_of_birth>
+           <honor>
+               <international>Copa_Libertadores:1977,1978,2000,2001,2003,2007</international>
+               <times_of_national_championship>33</times_of_national_championship>
+           </honor>
+           <famousplayer>Juan Roman Riquelme</famousplayer>
+           <officialsite>http://www.bocajuniors.com.ar</officialsite>
+       </team>
+       <team>
+           <name>Atletico River Plate</name>
+           <country>Argentina</country>
+           <date_of_birth>1901-05-25</date_of_birth>
+           <honor>
+               <international>Copa_Libertadores:1986,1996,2015,2018</international>
+               <times_of_national_championship>36</times_of_national_championship>
+           </honor>
+           <famousplayer>Hernan Crespo</famousplayer>
+           <officialsite>http://www.cariverplate.com.ar/en</officialsite>
+       </team>
+       <team>
+           <name>Sydney_FC</name>
+           <country>Australia</country>
+           <date_of_birth>1987-03-10</date_of_birth>
+           <honor>
+               <international>Not Yet</international>
+               <times_of_national_championship>3</times_of_national_championship>
+           </honor>
+           <famousplayer>Siem De Rong</famousplayer>
+           <officialsite>https://www.sydneyfc.com</officialsite>
+       </team> 
+
+</World>
+</Football>

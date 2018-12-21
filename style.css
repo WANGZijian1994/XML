@@ -1,0 +1,38 @@
+table {
+  border-collapse: collapse;
+  width:100%;
+  height:100%;
+}
+
+
+th{
+	height: 100px;
+	color: black;
+	font-family:verdana;
+	font-size: 100%;
+    border: 2px solid black;
+    font-style:oblique;	
+}
+
+td{
+    height: 100px;
+	color: black;
+	font-family:serif;
+	font-size: 100%;
+	font-weight:bold;
+    border: 2px solid black;   
+}
+h1{
+    color:1DE2D0;
+	font-family:serif;
+	font-size: 150%;
+	font-weight:900;
+    text-align:center;	
+}
+div{
+	color: black;
+	font-family:Fantasy;
+	font-size: 150%;
+	font-style:normal;
+	font-weight:bold;	
+}
